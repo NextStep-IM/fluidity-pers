@@ -67,13 +67,11 @@ export const links: linkGroup[] = [
       },
       {
         label: "whatsapp",
-        value:
-          "https://web.whatsapp.com/",
+        value: "https://web.whatsapp.com/",
       },
       {
         label: "cui-student-portal",
-        value:
-          "https://cuonline.cuiwah.edu.pk:8095/",
+        value: "https://cuonline.cuiwah.edu.pk:8095/",
       },
     ],
   },
@@ -140,8 +138,7 @@ export const links: linkGroup[] = [
       },
       {
         label: "Nyaa",
-        value:
-          "https://nyaa.si/",
+        value: "https://nyaa.si/",
       },
       {
         label: "1337x",
