@@ -33,127 +33,127 @@ export const links: linkGroup[] = [
     title: "Reddit",
     links: [
       {
-        label: "r/startpages",
-        value: "https://www.reddit.com/r/startpages/",
+        label: "r/manga",
+        value: "https://old.reddit.com/r/manga/",
       },
       {
         label: "r/unixporn",
-        value: "https://www.reddit.com/r/unixporn/",
+        value: "https://old.reddit.com/r/unixporn/",
       },
       {
-        label: "r/rainmeter",
-        value: "https://www.reddit.com/r/rainmeter/",
+        label: "r/anime",
+        value: "https://old.reddit.com/r/anime/",
       },
       {
-        label: "r/AnimalsBeingDerps",
-        value: "https://www.reddit.com/r/AnimalsBeingDerps/",
+        label: "r/frontpage",
+        value: "https://old.reddit.com",
       },
     ],
   },
   {
-    title: "3D Modelling",
+    title: "General",
     links: [
       {
-        label: "Blender",
-        value: "https://www.blender.org/",
+        label: "chatgpt",
+        value: "https://chat.openai.com/",
       },
       {
-        label: "BlenderGuru",
-        value: "https://www.blenderguru.com/",
+        label: "gmail",
+        value: "https://mail.google.com/mail/u/0/#inbox",
       },
       {
-        label: "Poliigon",
-        value: "https://www.poliigon.com/",
+        label: "youtube",
+        value: "https://www.youtube.com/",
       },
       {
-        label: "Blender tutorial",
+        label: "whatsapp",
         value:
-          "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
+          "https://web.whatsapp.com/",
       },
       {
-        label: "The other Blender tutorial",
+        label: "cui-student-portal",
         value:
-          "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
+          "https://cuonline.cuiwah.edu.pk:8095/",
       },
     ],
   },
   {
-    title: "Design",
+    title: "Linux",
     links: [
       {
-        label: "PixlrX",
-        value: "https://pixlr.com/x/",
+        label: "distrowatch",
+        value: "https://distrowatch.com/",
       },
       {
-        label: "AI Image Enlarger",
-        value: "https://bigjpg.com/en",
+        label: "itsfoss",
+        value: "https://itsfoss.com/",
       },
       {
-        label: "Img to Svg Converter",
-        value: "https://picsvg.com/",
+        label: "hyprland",
+        value: "https://hyprland.org/",
       },
       {
-        label: "Affinity",
-        value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
+        label: "archwiki",
+        value: "https://wiki.archlinux.org/",
       },
       {
-        label: "Affinity - YT",
-        value: "https://www.youtube.com/c/AffinityRevolution/playlists",
+        label: "catppuccin",
+        value: "https://github.com/catppuccin/catppuccin",
       },
     ],
   },
   {
-    title: "Music",
+    title: "compsci",
     links: [
       {
-        label: "i wanna be a cowboy",
-        value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
+        label: "Ben Eater",
+        value: "https://www.youtube.com/@BenEater/featured",
       },
       {
-        label: "let the bodies hit the floor",
-        value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
+        label: "hackerrank",
+        value: "https://www.hackerrank.com/dashboard",
       },
       {
-        label: "Nobody Kanna Cross It",
-        value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
+        label: "leetcode",
+        value: "https://leetcode.com/",
       },
       {
-        label: "Smug Dancin",
-        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
+        label: "cs50",
+        value: "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home",
       },
       {
-        label: "Utamaru - The Sanctified Mind Cover",
-        value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
+        label: "dev-roadmap",
+        value: "https://roadmap.sh/",
       },
     ],
   },
   {
-    title: "Sauce",
+    title: "SpiderLinks",
     links: [
       {
-        label: "Pictures - DeathAndMilk",
-        value: "https://www.instagram.com/deathandmilk_/",
+        label: "zlibrary",
+        value: "https://singlelogin.re/",
       },
       {
-        label: "Icons - FontAwesome",
-        value: "https://fontawesome.com/icons",
+        label: "nerdfonts",
+        value: "https://www.nerdfonts.com/",
       },
       {
-        label: "Text Flicker - CodeMyUI",
+        label: "Nyaa",
         value:
-          "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/",
+          "https://nyaa.si/",
       },
       {
-        label: "Wave Animation - mburakerman",
-        value: "https://codepen.io/mburakerman/pen/eRZZEv",
+        label: "1337x",
+        value: "https://1337x.to/",
       },
       {
-        label: "Da real sauce ԅ(♡﹃♡ԅ)",
-        value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
+        label: "ObsidianUserGuide",
+        value: "https://help.obsidian.md/Home",
       },
       {
-        label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-        value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
+        label: "aniwave",
+        value: "https://aniwave.to/home",
       },
     ],
   },
