@@ -33,8 +33,8 @@ export const links: linkGroup[] = [
     title: "Reddit",
     links: [
       {
-        label: "r/manga",
-        value: "https://old.reddit.com/r/manga/",
+        label: "r/frontpage",
+        value: "https://old.reddit.com",
       },
       {
         label: "r/unixporn",
@@ -45,8 +45,8 @@ export const links: linkGroup[] = [
         value: "https://old.reddit.com/r/anime/",
       },
       {
-        label: "r/frontpage",
-        value: "https://old.reddit.com",
+        label: "r/manga",
+        value: "https://old.reddit.com/r/manga/",
       },
     ],
   },
