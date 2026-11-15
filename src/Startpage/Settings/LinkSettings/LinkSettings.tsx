@@ -1,8 +1,8 @@
 import styled from "@emotion/styled"
 
-import { OptionTextArea } from "./OptionTextArea"
 import { linkGroup } from "../../../data/data"
 import { SettingsLabel } from "../SettingsWindow"
+import { OptionTextArea } from "./OptionTextArea"
 
 interface props {
   linkGroups: linkGroup[]

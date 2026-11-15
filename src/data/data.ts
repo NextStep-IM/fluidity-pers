@@ -1,3 +1,4 @@
+import { queryToken } from "../Startpage/Searchbar/Searchbar"
 import pic_1 from "./pictures/pic_1.jpg"
 import pic_2 from "./pictures/pic_2.jpg"
 import pic_3 from "./pictures/pic_3.jpg"
@@ -6,7 +7,6 @@ import pic_5 from "./pictures/pic_5.jpg"
 import pic_6 from "./pictures/pic_6.jpg"
 import pic_7 from "./pictures/pic_7.jpg"
 import pic_8 from "./pictures/pic_8.png"
-import { queryToken } from "../Startpage/Searchbar/Searchbar"
 
 export interface dataElem {
   label: string
@@ -20,118 +20,118 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    "title": "General",
-    "links": [
+    title: "General",
+    links: [
       {
-        "label": "chatgpt",
-        "value": "https://chat.openai.com/"
+        label: "chatgpt",
+        value: "https://chat.openai.com/",
       },
       {
-        "label": "gmail",
-        "value": "https://mail.google.com/mail/u/0/#inbox"
+        label: "gmail",
+        value: "https://mail.google.com/mail/u/0/#inbox",
       },
       {
-        "label": "youtube",
-        "value": "https://www.youtube.com/"
+        label: "youtube",
+        value: "https://www.youtube.com/",
       },
       {
-        "label": "whatsapp",
-        "value": "https://web.whatsapp.com/"
+        label: "whatsapp",
+        value: "https://web.whatsapp.com/",
       },
       {
-        "label": "cui-student-portal",
-        "value": "https://cuonline.cuiwah.edu.pk:8095/"
-      }
-    ]
+        label: "cui-student-portal",
+        value: "https://cuonline.cuiwah.edu.pk:8095/",
+      },
+    ],
   },
   {
-    "title": "On Linux",
-    "links": [
+    title: "On Linux",
+    links: [
       {
-        "label": "Open WebUI",
-        "value": "http://localhost:8080"
+        label: "Open WebUI",
+        value: "http://localhost:8080",
       },
       {
-        "label": "VaneSearch",
-        "value": "http://localhost:3000"
-      }
-    ]
+        label: "VaneSearch",
+        value: "http://localhost:3000",
+      },
+    ],
   },
   {
-    "title": "Reddit",
-    "links": [
+    title: "Reddit",
+    links: [
       {
-        "label": "r/frontpage",
-        "value": "https://old.reddit.com"
+        label: "r/frontpage",
+        value: "https://old.reddit.com",
       },
       {
-        "label": "r/unixporn",
-        "value": "https://old.reddit.com/r/unixporn/"
+        label: "r/unixporn",
+        value: "https://old.reddit.com/r/unixporn/",
       },
       {
-        "label": "r/anime",
-        "value": "https://old.reddit.com/r/anime/"
+        label: "r/anime",
+        value: "https://old.reddit.com/r/anime/",
       },
       {
-        "label": "r/manga",
-        "value": "https://old.reddit.com/r/manga/"
-      }
-    ]
+        label: "r/manga",
+        value: "https://old.reddit.com/r/manga/",
+      },
+    ],
   },
   {
-    "title": "compsci",
-    "links": [
+    title: "compsci",
+    links: [
       {
-        "label": "Ben Eater",
-        "value": "https://www.youtube.com/@BenEater/featured"
+        label: "Ben Eater",
+        value: "https://www.youtube.com/@BenEater/featured",
       },
       {
-        "label": "hackerrank",
-        "value": "https://www.hackerrank.com/dashboard"
+        label: "hackerrank",
+        value: "https://www.hackerrank.com/dashboard",
       },
       {
-        "label": "leetcode",
-        "value": "https://leetcode.com/"
+        label: "leetcode",
+        value: "https://leetcode.com/",
       },
       {
-        "label": "cs50",
-        "value": "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home"
+        label: "cs50",
+        value: "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home",
       },
       {
-        "label": "dev-roadmap",
-        "value": "https://roadmap.sh/"
-      }
-    ]
+        label: "dev-roadmap",
+        value: "https://roadmap.sh/",
+      },
+    ],
   },
   {
-    "title": "SpiderLinks",
-    "links": [
+    title: "SpiderLinks",
+    links: [
       {
-        "label": "zlibrary",
-        "value": "https://singlelogin.re/"
+        label: "zlibrary",
+        value: "https://singlelogin.re/",
       },
       {
-        "label": "nerdfonts",
-        "value": "https://www.nerdfonts.com/"
+        label: "nerdfonts",
+        value: "https://www.nerdfonts.com/",
       },
       {
-        "label": "Nyaa",
-        "value": "https://nyaa.si/"
+        label: "Nyaa",
+        value: "https://nyaa.si/",
       },
       {
-        "label": "1337x",
-        "value": "https://1337x.to/"
+        label: "1337x",
+        value: "https://1337x.to/",
       },
       {
-        "label": "ObsidianUserGuide",
-        "value": "https://help.obsidian.md/Home"
+        label: "ObsidianUserGuide",
+        value: "https://help.obsidian.md/Home",
       },
       {
-        "label": "aniwave",
-        "value": "https://aniwave.to/home"
-      }
-    ]
-  }
+        label: "aniwave",
+        value: "https://aniwave.to/home",
+      },
+    ],
+  },
 ]
 
 export const images: dataElem[] = [
