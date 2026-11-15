@@ -2,8 +2,8 @@ import { MouseEvent, useState } from "react"
 
 import styled from "@emotion/styled"
 
-import { AccordionContainer, AccordionGroup } from "./Accordion/Accordion"
 import * as Settings from "../Settings/settingsHandler"
+import { AccordionContainer, AccordionGroup } from "./Accordion/Accordion"
 
 const LinkItem = styled.a`
   max-width: fit-content;

@@ -1,11 +1,11 @@
 import styled from "@emotion/styled"
 
-import { FastForwardSearch } from "./FastForwardSearch"
 import { OptionSlider } from "../../../components/OptionSlider"
 import { OptionTextInput } from "../../../components/OptionTextInput"
 import { searchEngines, Search } from "../../../data/data"
 import { queryToken } from "../../Searchbar/Searchbar"
 import { SettingElement, SettingsLabel } from "../SettingsWindow"
+import { FastForwardSearch } from "./FastForwardSearch"
 
 interface props {
   searchSettings: Search

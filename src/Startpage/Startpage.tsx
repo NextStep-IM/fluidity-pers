@@ -2,12 +2,12 @@ import { useState } from "react"
 
 import styled from "@emotion/styled"
 
+import { images } from "../data/data"
 import { Clock } from "./Clock/Clock"
 import { LinkContainer } from "./LinkContainer/LinkContainer"
 import { Searchbar } from "./Searchbar/Searchbar"
 import { Settings } from "./Settings/Settings"
 import { Design as DesignSettings } from "./Settings/settingsHandler"
-import { images } from "../data/data"
 
 const Wrapper = styled.div`
   max-width: 1920px;
